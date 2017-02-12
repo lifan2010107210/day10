@@ -1,0 +1,7 @@
+1.导报
+  mysql-connector-java.jar驱动
+     链接池包
+2.导配置文件
+3.开发
+  util
+4.测试  
